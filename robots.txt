@@ -1,0 +1,37 @@
+# IME Clinic - Body Contouring Istanbul
+# Robots.txt optimized for AI crawlers and search engines
+
+User-agent: *
+Allow: /
+
+# AI Crawlers - Explicitly allow
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Search Engine Bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Sitemap
+Sitemap: https://imeclinic.com/body-contouring-istanbul/sitemap.xml

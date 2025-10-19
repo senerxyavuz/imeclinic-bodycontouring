@@ -1,0 +1,28 @@
+{
+  "name": "IME Clinic - Body Contouring Istanbul",
+  "short_name": "IME Clinic",
+  "description": "Premium body contouring & plastic surgery in Istanbul. Liposuction, tummy tuck, mommy makeover with JCI-accredited hospital.",
+  "start_url": "/body-contouring-istanbul/",
+  "scope": "/body-contouring-istanbul/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/body-contouring-istanbul/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/body-contouring-istanbul/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "health", "business"],
+  "lang": "en",
+  "dir": "ltr"
+}
